@@ -7,7 +7,7 @@ categories: jekyll update
 I'll be reviewing the book "Ardent C++ Programming" written by Sungwoo Yoon.
 The book consists of 16 chapters as follows:
 | #  | Chapter Name |
-| -- | -----:|
+| -- | -----|
 | 1  | C++ Based on C (1) |
 | 2  | C++ Based on C (2) |
 | 3  | Class Basics |
