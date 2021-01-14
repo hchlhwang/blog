@@ -1,10 +1,24 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2021-01-13 17:43:25 +0900
+title:  "[Programming C++] - testing"
+date:   2021-01-14 15:43:25 +0900
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+I'll be reviewing the book "Ardent C++ Programming" written by Sungwoo Yoon.
+The book consists of 16 chapters as follows:
+| #  | Chapter Name |
+| -- | -----:|
+| 1  | C++ Based on C (1) |
+| 2  | C++ Based on C (2) |
+| 3  | Class Basics |
+| 4  | Class Completion |
+| 5  | Copy Constructor |
+| 6  | friend, static, and const |
+| 7  | Understanding Inheritance |
+| 8  | Inheritance and Polymorphism |
+| 9  | Copy Constructor |
+
+
 
 Jekyll requires blog post files to be named according to the following format:
 
