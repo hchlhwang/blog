@@ -23,7 +23,7 @@ email: hchlhwang@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   My Blog for Projects & Studies
 baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "https://hchlhwang.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://hchlhwang.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 production_url : https://hchlhwang.github.io/blog
 BASE_PATH : https://hchlhwang.github.io/blog
 #[https://hchlhwang.github.io/]({{ site.baseurl }}{% link home.markdown %})
