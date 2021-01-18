@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "[Programming C++] - testing"
-<!--title:  "[Reinforcement Learning] - testing"-->
-date:   2021-01-18 15:43:25 +0900
+<!--title:  "[Programming C++] - testing"-->
+title:  "[Reinforcement Learning] - testing"
+date:   2021-01-13 15:43:25 +0900
 categories: jekyll update
 ---
 I'll be reviewing the book "Ardent C++ Programming" written by Sungwoo Yoon.
