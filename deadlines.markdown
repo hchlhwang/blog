@@ -1,9 +1,7 @@
 ---
-layout: page
-title: Deadlines
+permalink: /deadlines/
 redirect_to:
   - https://aideadlin.es/?sub=ML,CV,RO
-permalink: /deadlines/
 ---
 
-link: https://aideadlin.es/?sub=ML,CV,RO
+link converted
