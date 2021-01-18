@@ -5,5 +5,7 @@ title: Home
 <!--permalink: https://hchlhwang.github.io/-->
 <!--[https://hchlhwang.github.io/]({{ site.baseurl }}{% link https://hchlhwang.github.io/ %})-->
 <!--{{ site.baseurl }}{% link https://hchlhwang.github.io/ %}-->
-permalink: /
+permalink: /home/
 ---
+
+This should direct to hchlhwang.github.io

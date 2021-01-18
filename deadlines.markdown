@@ -1,6 +1,6 @@
 ---
 layout: page
 title: Deadlines
-<!--permalink: https://aideadlin.es/?sub=ML,CV,RO-->
-[https://aideadlin.es/?sub=ML,CV,RO]({{ site.baseurl }}{% link deadlines.html %})
+<!--[https://aideadlin.es/?sub=ML,CV,RO]({{ site.baseurl }}{% link deadlines.html %})-->
+permalink: https://aideadlin.es/?sub=ML,CV,RO
 ---
