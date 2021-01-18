@@ -1,7 +1,7 @@
 ---
 layout: post
-<!--title:  "[Programming C++] - testing"-->
-title:  "[Reinforcement Learning] - testing"
+title:  "[Programming C++] - testing"
+<!--title:  "[Reinforcement Learning] - testing"-->
 date:   2021-01-18 15:43:25 +0900
 categories: jekyll update
 ---
